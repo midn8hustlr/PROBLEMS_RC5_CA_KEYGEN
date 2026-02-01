@@ -1,0 +1,5 @@
+*.log
+
+.vscode/
+
+CONTRACTOR_GUIDE.md
