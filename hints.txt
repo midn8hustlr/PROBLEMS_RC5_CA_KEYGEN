@@ -1,1 +1,1 @@
-1. key generation: no hints
+no hints
